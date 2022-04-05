@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.12.200.8:8081/repository/colvinetech-web-application-releases//</url>
+	      <url>http://172.31.36.245:8081/repository/colvinetech-web-application-releases//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.12.200.8:8081/repository/colvinetech-web-application-snapshot/</url>
+	      <url>http://172.31.36.245:8081/repository/colvinetech-web-application-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
